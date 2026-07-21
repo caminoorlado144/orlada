@@ -1,8 +1,18 @@
 {
-  "id": "notif_2026_07_15",
+  "id": "21_07_2026",
   "tipo": "video",
-  "titulo": "El Pensamiento del Corazón",
-  "descripcion": "te habla, ¿estás escuchando?",
+  "titulo": "¿Qué hay despues de la muerte?",
+  "descripcion": "Tu Vida que vence la muerte",
   "link": "https://orlada.ar/documentos.html/#videos",
   "profecia_id": -1
+},
+{
+  "id": "destacadas",
+  "tipo": "ninguna",
+  "titulo": "",
+  "descripcion": "",
+  "link": "",
+  "profecia_id": -1,
+"etiquetas_destacadas": ["Amor","Cristo","Cibernética"]
 }
+
