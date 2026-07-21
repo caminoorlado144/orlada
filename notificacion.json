@@ -4,15 +4,6 @@
   "titulo": "¿Qué hay despues de la muerte?",
   "descripcion": "Tu Vida que vence la muerte",
   "link": "https://orlada.ar/documentos.html/#videos",
-  "profecia_id": -1
-},
-{
-  "id": "destacadas",
-  "tipo": "ninguna",
-  "titulo": "",
-  "descripcion": "",
-  "link": "",
   "profecia_id": -1,
-"etiquetas_destacadas": ["Amor","Cristo","Cibernética"]
+  "etiquetas_destacadas": ["Amor","Cristo","Cibernética"]
 }
-
